@@ -7,7 +7,6 @@
 
 <em>Connect Instantly, Communicate Limitlessly, Empower Collaboration</em>
 
-<!-- BADGES -->
 <img src="https://img.shields.io/github/last-commit/amiliceviic/Chat-application?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 <img src="https://img.shields.io/github/languages/top/amiliceviic/Chat-application?style=flat&color=0080ff" alt="repo-top-language">
 <img src="https://img.shields.io/github/languages/count/amiliceviic/Chat-application?style=flat&color=0080ff" alt="repo-language-count">
