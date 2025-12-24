@@ -83,11 +83,6 @@ Run the project with:
 
 echo 'INSERT-RUN-COMMAND-HERE'
 
-### 🧪 Testing
-
-Chat-application uses the {__test_framework__} test framework. Run the test suite with:
-
-echo 'INSERT-TEST-COMMAND-HERE'
 
 ---
 
