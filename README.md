@@ -2,7 +2,6 @@
 
 <div align="center">
 
-
 # CHAT-APPLICATION
 
 <em>Connect Instantly, Communicate Limitlessly, Empower Collaboration</em>
